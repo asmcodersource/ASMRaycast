@@ -2,6 +2,9 @@
 
 This repository contains a simple raycasting game engine written in x86 assembly. The engine renders a 3D view from a 2D map using raycasting techniques, similar to early first-person shooters like Wolfenstein 3D. The game runs in real mode and uses BIOS interrupts for graphics and input handling.
 
+![image](https://github.com/asmcodersource/ASMRaycast/assets/126491635/8ee6fbc5-930f-4585-be31-6472d93933db)
+
+
 ## Features
 
 - **Raycasting Rendering**: The engine performs raycasting to render a 3D view from a 2D map.
